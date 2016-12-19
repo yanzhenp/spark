@@ -1,4 +1,3 @@
-```
 /**
   * Created by yanzhenp on 12/13/2016.
   */
@@ -67,4 +66,3 @@ object transformation {
     (distData3.join(distData4)).collect().foreach(println)
   }
 }
-```
